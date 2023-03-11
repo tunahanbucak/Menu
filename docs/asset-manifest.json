@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50fef310.css",
+    "main.js": "/static/js/main.b5eb1b8c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/kermes.jpg": "/static/media/kermes.c0ed3fcd19822f07b01c.jpg",
+    "static/media/3.jpg": "/static/media/3.5e195edd41f39032d8ee.jpg",
+    "static/media/serntp.jpg": "/static/media/serntp.3cdacd9e2582af6d3827.jpg",
+    "static/media/srntp.jpg": "/static/media/srntp.10db7964aec8f2f51093.jpg",
+    "static/media/menu_resim.jpg": "/static/media/menu_resim.7f886a32d683ece611f4.jpg",
+    "static/media/4.jpg": "/static/media/4.14a06ce711fd5c9656f7.jpg",
+    "static/media/menu_resim2.jpg": "/static/media/menu_resim2.9c0d068e53f24dcdb853.jpg",
+    "static/media/1.jpg": "/static/media/1.207eb44624d5a3da5e46.jpg",
+    "static/media/menu_resim1.jpg": "/static/media/menu_resim1.1c87b9abb5c387e8f6fa.jpg",
+    "index.html": "/index.html",
+    "main.50fef310.css.map": "/static/css/main.50fef310.css.map",
+    "main.b5eb1b8c.js.map": "/static/js/main.b5eb1b8c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50fef310.css",
+    "static/js/main.b5eb1b8c.js"
+  ]
+}
